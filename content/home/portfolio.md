@@ -36,8 +36,8 @@ content:
       tag: spark
 
 design:
-  columns: '2'
-  view: masonry
+  columns: '1'
+  view: isotope
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
