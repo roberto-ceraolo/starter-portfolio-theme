@@ -22,26 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: Msc Data Science
+    company: Polytechnic School of Lausanne (EPFL)
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    company_logo: epfl-logo
+    location: Lausanne
+    date_start: '2021-09-01'
+    date_end: ''
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Research project on Causal Representation Learning to improve generalization capabilities of neural networks
+        * Research project on Generative Adversarial Networks and synthetic data generation
+        * GPA: 5.3/6
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: BSc Economics, Management and Computer Science
+    company: Luigi Bocconi University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    company_logo: bocconi-logo
+    location: Milan
+    date_start: '2018-09-01'
+    date_end: '2021-07-15'
+    description: |2-
+        * Final dissertation was on Agent Theory and Reinforcement Learning applied to the game of Poker
+        * Co-Founded Bocconi Students for Data Science, a community of students interested in AI which counted more than 200 members
+        
+    
+    
 
 design:
   columns: '1'
