@@ -36,7 +36,7 @@ content:
       tag: spark
 
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: true
   background: {}
