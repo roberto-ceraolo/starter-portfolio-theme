@@ -29,9 +29,9 @@ content:
     - name: All
       tag: '*'
     - name: Causal Representation Learning
-      tag: CRL
-    - name: Generative Adversarial Network
-      tag: GAN
+      tag: crl
+    - name: Generative Adversarial Networks
+      tag: gans
     - name: Large Scale Datasets 
       tag: spark
 
