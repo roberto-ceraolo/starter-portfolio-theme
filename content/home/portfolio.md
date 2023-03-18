@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Causal Representation Learning
+      tag: CRL
+    - name: Generative Adversarial Network
+      tag: GAN
+    - name: Large Scale Datasets 
+      tag: spark
 
 design:
   columns: '1'
