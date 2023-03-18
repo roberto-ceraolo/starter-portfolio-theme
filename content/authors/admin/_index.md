@@ -20,12 +20,12 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Causal Inference, Language Models and Business Analytics. 
 
-interests:
-- Artificial Intelligence
-- Causal Inference
-- Causal Representation Learning
-- Language Models
-- Startups
+#interests:
+#- Artificial Intelligence
+#- Causal Inference
+#- Causal Representation Learning
+#- Language Models
+#- Startups
 
 #education:
 #  courses:
