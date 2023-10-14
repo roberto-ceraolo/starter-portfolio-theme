@@ -34,11 +34,13 @@ content:
       tag: gans
     - name: Large Scale Datasets 
       tag: spark
+    - name: Video Panoptic Segmentation 
+      tag: vps
 
 design:
   columns: '1'
   view: isotope
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: {padding: [0, 0, 0, 0, 0]}
 ---
