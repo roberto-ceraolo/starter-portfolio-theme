@@ -36,6 +36,8 @@ content:
       tag: spark
     - name: Video Panoptic Segmentation 
       tag: vps
+    - name: Large Language Models
+      tag: nlp
 
 design:
   columns: '1'
