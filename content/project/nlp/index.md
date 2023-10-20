@@ -4,5 +4,5 @@ summary: Together with a team of colleagues, developed an AI assistant for STEM 
 tags:
   - nlp
 date: 2023-05-31
-external_link: /about/
+link: uploads/report_AI_assistant.pdf
 ---
