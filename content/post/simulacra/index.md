@@ -1,6 +1,10 @@
 ---
-title: Simulacra
+title: simulacra
 date: 2023-12-29
+tags:
+  - Hugo
+  - Hugo Blox
+  - Markdown
 ---
 
 # Generative Agents to Simulate Human Decision-Making
