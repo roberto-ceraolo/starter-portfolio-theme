@@ -1,13 +1,11 @@
 ---
-title: simulacra
+title: Generative Agents to Simulate Human Decision-Making
 date: 2023-12-29
 tags:
   - Hugo
   - Hugo Blox
   - Markdown
 ---
-
-# Generative Agents to Simulate Human Decision-Making
 
 In many cases, language models proved effective in "reasoning" like humans. A natural evolution of LLMs is generative agents: LLMs are given a memory, some reasoning abstraction to make decisions, and access to external tools they can use when needed. In the last few months, an increasing amount of researchers (notably Park, O'Brien, Cai, et al., 2023; Vezhnevets, Agapiou, Aharon et al., 2023) popularized the idea of creating virtual environments and populating them with generative agents. If the agents are believable, i.e., their behavior is a reasonable representation of human behavior. Such simulations can allow the creation of tools to make inferences about human decision-making without the need to conduct experiments with real humans. Several frameworks for creating simulated environments have already been published, but there has yet to be a consensus on running systematic experiments in silico and drawing inferences from those. In the coming months, I would like to explore a possible methodology.
 
